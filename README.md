@@ -12,8 +12,10 @@
 
 ## Syntax available
 Available files: 
+- making_data_one_sample_MR: preparation of database for one-sample MR analyses
 - one_sample_MR_smoking_covid: one-sample MR
 - two_sample_MR_smoking_covid: two-sample MR
+- snp_descr: preparation of outputs (supplementary tables with genetic instruments, forest plots)
 
 
 ## Citation
